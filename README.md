@@ -1,8 +1,8 @@
 # Hi, I'm Hamsini 👋
 
-**AI/ML Engineer** — building intelligent systems at the intersection of language, knowledge, and real-world utility.
+**AI/ML Engineer & Founder, Sacral AI Labs** — building intelligent systems at the intersection of ancient knowledge frameworks and modern AI architecture.
 
-I specialize in **production-grade RAG pipelines, document intelligence, and knowledge graph architectures** — with a track record of taking projects from research to deployment in high-stakes domains like pharma compliance and financial services.
+I specialize in **production-grade RAG pipelines, document intelligence, and knowledge systems** — with a focus on domains where accuracy and reasoning depth actually matter: pharma compliance, financial services, and Sanskrit epistemology.
 
 ---
 
@@ -12,7 +12,7 @@ I specialize in **production-grade RAG pipelines, document intelligence, and kno
 `LlamaIndex` `LangChain` `FAISS` `BGE Embeddings` `Groq` `Anthropic Claude` `Gemini` `Hugging Face` `Stable Diffusion` `scikit-learn`
 
 **RAG & Search**
-`Hybrid BM25 + Vector Search` `GraphRAG` `Neo4j` `Prompt Caching` `Structured Outputs`
+`Hybrid BM25 + Vector Search` `MoRAG` `GraphRAG` `Neo4j` `Prompt Caching` `Contextual Retrieval` `Structured Outputs`
 
 **Backend & Infra**
 `Python` `FastAPI` `Flask` `PostgreSQL` `Oracle 23ai` `PowerAutomate` `MS 365 Agents Toolkit`
@@ -31,6 +31,39 @@ I specialize in **production-grade RAG pipelines, document intelligence, and kno
 > Built during Pfizer externship (2026)
 
 Production-grade document intelligence pipeline for pharmaceutical compliance — handling bulk periodic safety reviews across chaotic real-world document formats.
+
+- Hybrid RAG: FAISS + BM25 fusion with cross-encoder reranking
+- HyDE query expansion + LLM-as-Judge routing
+- FastAPI backend with MS OAuth integration
+- Built and presented to senior Pfizer leadership
+
+---
+
+### 🌿 Tattva AI — Ayurvedic Wellness Intelligence
+> Long-term research project | University of Arizona graduation project (2025) → Sacral AI Labs
+
+AI-powered Ayurvedic constitution assessment grounded in 8+ classical Sanskrit texts. Not a wellness chatbot — a knowledge system built to respect the epistemological depth of its source material.
+
+- Conversational Prakriti evaluation via Claude
+- TF-IDF retrieval over processed classical Ayurvedic literature
+- Prompt caching for efficient multi-turn sessions
+- ChromaDB vector retrieval explored early (2024)
+
+[→ View repo](https://github.com/Hamsini11/tattva-ai)
+
+---
+
+### 🏦 ADIP — Adaptive Document Intelligence Pipeline
+> Built during Outamation externship (2025)
+
+Mortgage document intelligence using Mixture-of-RAGs (MoRAG) routing — because one retrieval strategy doesn't fit all query types.
+
+- 4-strategy router: SPARSE / FILTERED / DENSE / HYBRID
+- Contextual Retrieval (Anthropic, Sept 2024) — 35% fewer retrieval failures
+- Built-in FHA compliance knowledge base
+- Recognized as **Top Achiever** (top ~8 of 1,500 externs)
+
+[→ View repo](https://github.com/Hamsini11/adip)
 
 ---
 
@@ -61,8 +94,11 @@ From-scratch Python chess engine — every algorithm plays every other algorithm
 
 ## 💼 Experience
 
-**AI Extern** — Pfizer *(Feb – Apr 2026)*
-Built PDIS — a pharma document intelligence system — from architecture to deployment. Presented at company showcases to senior leadership.
+**Founder & CEO** — Sacral AI Labs *(2025 – present)*
+Building AI knowledge systems grounded in Sanskrit epistemological frameworks. Core projects: Tattva AI, PDIS, ADIP.
+
+**AI Extern** — Pfizer *(Feb – May 2026)*
+Built PDIS from architecture to deployment. Presented at company showcases to senior leadership.
 
 **AI Extern** — Outamation *(Oct – Dec 2025)*
 Built ADIP — mortgage document intelligence pipeline using hybrid RAG on Oracle 23ai. Recognized as **Top Achiever** (top ~8 of 1,500 externs).
@@ -81,8 +117,9 @@ University of Arizona
 
 ## 📬 Let's Connect
 
+[![Website](https://img.shields.io/badge/Sacral_AI_Labs-sacralailabs.com-black?style=flat&logo=vercel)](https://sacralailabs.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hamsini--a--kumar-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/hamsini-a-kumar)
-[![Email](https://img.shields.io/badge/Email-hachyuthakumar%40gmail.com-D14836?style=flat&logo=gmail)](mailto:hachyuthakumar@gmail.com)
+[![Email](https://img.shields.io/badge/Email-hamsini%40sacralailabs.com-D14836?style=flat&logo=gmail)](mailto:hamsini@sacralailabs.com)
 
 ---
 
