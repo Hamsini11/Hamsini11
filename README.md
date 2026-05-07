@@ -2,7 +2,7 @@
 
 **AI/ML Engineer & Founder, Sacral AI Labs** — building intelligent systems at the intersection of ancient knowledge frameworks and modern AI architecture.
 
-I specialize in **production-grade RAG pipelines, document intelligence, and knowledge systems** — with a focus on domains where accuracy and reasoning depth actually matter: pharma compliance, financial services, and Sanskrit epistemology.
+I specialize in **production-grade RAG pipelines, document intelligence, and knowledge systems** — with a focus on domains where accuracy and reasoning depth actually matter: pharma compliance, and financial services.
 
 ---
 
